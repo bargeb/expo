@@ -1,7 +1,8 @@
-# expo
+# EXPO
+EXPO CRM/ERP application
 
-EXPO is the current main branch of the ERP/CRP solution.
-It uses my admin v15 template and custom header.php file.
+Current EXPO application uses v15 admin file and has custom header
+Local repo is /expo
 
 Still under development.
-Local repo is /expo
+
